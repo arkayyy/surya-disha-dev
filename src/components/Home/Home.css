@@ -1,0 +1,6 @@
+.buttonsname:hover{
+    background: #3c1d54;
+    cursor: pointer;
+    transition: ease all 0.4s;
+}
+
